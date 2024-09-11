@@ -1,0 +1,14 @@
+{
+    "description": "Générez des grilles de lotto à imprimer gratuitement et en quantité illimitée !",
+    "number-of-grids": "Nombre de grilles",
+    "format": "Format",
+    "grids-per-page": "Grilles par feuille",
+    "compression-level": "Niveau de compression",
+    "fast": "Rapide",
+    "medium": "Moyen",
+    "slow": "Lent",
+    "generate": "Générer",
+    "negative-grid-count": "Le nombre de grilles doit être supérieur à 0.",
+    "generating": "Génération en cours...",
+    "file-ready": "Votre fichier est prêt !"
+}

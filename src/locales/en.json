@@ -1,0 +1,14 @@
+{
+    "description": "Generate unlimited free printable lotto grids!",
+    "number-of-grids": "Number of grids",
+    "format": "Format",
+    "grids-per-page": "Grids per page",
+    "compression-level": "Compression level",
+    "fast": "Fast",
+    "medium": "Medium",
+    "slow": "Slow",
+    "generate": "Generate",
+    "negative-grid-count": "The number of grids must be greater than 0.",
+    "generating": "Generating...",
+    "file-ready": "Your file is ready!"
+}
